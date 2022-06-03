@@ -39,20 +39,21 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 | Kontrollieren / Bewerten | | | |
 | Reflektieren | | | |
 
+## Bearbeitungsverlauf der Lernsituation
+
 | Verantwortliche / Verantwortlicher | Version | Bearbeitungsdatum |
 | :--- | :---: | :---: |
 | Neumann (NM) | 1.0 | 02.06.2022 |
+| Neumann (NM) | 1.1 | 03.06.2022 |
 
 ### Arbeitsmaterialien / Links
 
 - Moodle-Kurs:
 - Videomaterial aus dem LinkedIn Learning Portal
-    - 
 
 ### Schulische Entscheidungen
 
 - Das Lernfeld wird aus organisatorischen Gründen durch drei Kolleg:innen besetzt. Zwei sind in der Schiene der KDM-Spezialisierung, eine parallel im Bereich des Projektmanagements.
-- 
 
 ### Leistungsnachweise
 
