@@ -10,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Render draw.io files
-      uses: docker://ghcr.io/racklet/render-drawio-action:latest
+      uses: docker://ghcr.io/racklet/render-drawio-action:v1.1.0
       id: render
       with: # Showcasing the default values here
         formats: 'svg'
