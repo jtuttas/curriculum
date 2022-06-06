@@ -1,0 +1,7 @@
+site_name: Currciculum
+
+strict: false
+
+nav:
+    - LS12.1: bsp.mdKDM-LF12_LS12.1.md
+    - LS12.2: formelKDM-LF12_LS12.1.mdsammlung.md

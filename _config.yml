@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - KDM-LF12_LS12.1.md
+  - KDM-LF12_LS12.2.md
+  
