@@ -33,11 +33,11 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 
 | | Handlungskompetenz</br>(Fachkompetenz und Personale Kompetenz) | Inhalte | Sozialform/Methoden |
 | :--- | :--- | :--- | :--- |
-| Informieren bzw. Analysieren | | | |
-| Planen / Entscheiden | | | |
-| Durchführen | | | |
-| Kontrollieren / Bewerten | | | |
-| Reflektieren | | | |
+| Informieren bzw. Analysieren | Die SuS erfassen die Problemsituation des Kunden.<br> Die SuS erkennen die Notwendigkeit für die systematische und aktive Entwicklung des Geschäftsmodells des Kunden.<br>Die SuS identifizieren den Vergleich mit anderen Unternehmen aus der Branche als Möglichkeit zur Verbesserung des eigenen Kunden. | | In Kleingruppen wird eine Problemanalyse anhand einer Projektmappe zum Kunden durchgeführt. |
+| Planen / Entscheiden | Die SuS erarbeiten die Struktur des Business Model Canvas.<br>Die SuS finden Kriterien für die einzelnen Segmente des Business model Canvas. | Business Model Canvas (Stakeholder, Aktivitäten, Ressourcen, Kostenstrukturen, Gewinne, Wertesystem, Kundenbeziehungen, Distributionskanäle, Zielmärkte) | Erst in Einzelarbeit mithilfe des LinkedIn-Learning-Kurses, zwischenzeitlich oder am Ende Abstimmung der Erkenntnisse in Kleingruppen. |
+| Durchführen | Die SuS stellen ein zielgerichtetes Business Model Canvas für zusammen.<br>Die SuS ergänzen ihre Inhalte der Felder um Aspekte der strategischen Neuausrichtung. | | Bearbeitung in Kleingruppen, ggf. arbeitsteilige Bearbeitung der Felder.<br>Einsatz des Tools [draw.io](draw.io) mit passender Vorlage zum Business Model Canvas.<br>Es wird am Beispiel des Branchenriesen *McFit* gearbeitet. |
+| Kontrollieren / Bewerten | Die SuS stellen die Ergebnisse ihrer Kleingruppe vor.<br>Die SuS stimmen sich über eine gemeinsame Strategie mit einer anderen Kleingruppe ab.<br>Die SuS vertreten in einer Vorstellung der Ergebnisse eine Gesamtstrategie zweier Kleingruppen. | | Zwei Kleingruppen werden miteinander kombiniert, um die jeweiligen Ergebnisse abzustimmen und in einem gemeinsamen Ergebnis zusammenzuführen. |
+| Reflektieren | Die SuS schätzen das Ergebnis aus der Kombination aus zwei Kleingruppen gegenüber dem Ergebnis ihrer Stammgruppe individuell und anschließend gemeinsam ein. | | Es können ggf. Strategiekonflikte erkannt und die Notwendigkeit eines stimmigen Konzeptes reflektiert werden. |
 
 ## Bearbeitungsverlauf der Lernsituation
 
@@ -45,15 +45,19 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 | :--- | :---: | :---: |
 | Neumann (NM) | 1.0 | 02.06.2022 |
 | Neumann (NM) | 1.1 | 03.06.2022 |
+| Neumann (NM) | 1.2 | 06.07.2022 |
 
 ### Arbeitsmaterialien / Links
 
-- Moodle-Kurs:
-- Videomaterial aus dem LinkedIn Learning Portal
+- Moodle-Kurs: [LF12: Unternehmen digital weiterentwickeln
+](https://moodle.mm-bbs.de/moodle/course/view.php?id=2737)
+- Videomaterial aus dem LinkedIn-Learning Portal
 
 ### Schulische Entscheidungen
 
 - Das Lernfeld wird aus organisatorischen Gründen durch drei Kolleg:innen besetzt. Zwei sind in der Schiene der KDM-Spezialisierung, eine parallel im Bereich des Projektmanagements.
+
+<div style="page-break-after: always;"></div>
 
 ### Leistungsnachweise
 
@@ -64,4 +68,4 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
 
-- Lernfeld 7: Darstellung und Modellierung von Prozessen
+- Lernfeld 9: Darstellung und Modellierung von Prozessen
