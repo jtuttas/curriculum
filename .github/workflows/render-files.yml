@@ -115,9 +115,7 @@ jobs:
         run: 'ls -laR'
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
-        env:
-          CONFIG_FILE: mkdocs.yml 
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme        
       - uses: EndBug/add-and-commit@v7
         with:
           # This "special" author name and email will show up as the GH Actions user/bot in the UI
