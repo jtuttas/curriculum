@@ -90,6 +90,8 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: false
+      - name: list files2 
+        run: 'ls -laR' 
 
   render-mk-docs:
     name: mkdocs
