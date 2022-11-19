@@ -7,6 +7,7 @@ nav:
   - Home: index.md
   - IT-Teilzeit:
     - KDM:
-        - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
-        - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
+        - LF12:
+            - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
+            - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
 
