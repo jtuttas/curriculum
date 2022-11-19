@@ -10,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Render draw.io files
-      uses: docker://ghcr.io/racklet/render-drawio-action:v1.1.0
+      uses: docker://ghcr.io/racklet/render-drawio-action:v1.0.3
       id: render
       with: # Showcasing the default values here
         formats: 'svg'
@@ -28,6 +28,7 @@ jobs:
           ./docs
           ./config
           ./pdfs
+          ./html
         key: $build-${{ env.cache-name }}-${{ github.event.head_commit.message }}
     - name: List the rendered files
       run: 'ls -l ${{ steps.render.outputs.rendered-files }}'
@@ -47,7 +48,8 @@ jobs:
         path: | 
           ./docs
           ./config
-          ./pdfs          
+          ./pdfs
+          ./html
         key: $build2-${{ env.cache-name }}-${{ github.event.head_commit.message }}
         restore-keys: |
           $build-${{ env.cache-name }}-${{ github.event.head_commit.message }}
@@ -109,15 +111,17 @@ jobs:
             ./docs
             ./config
             ./pdfs
-            
+            ./html
           key: $build4-${{ env.cache-name }}-${{ github.event.head_commit.message }}
           restore-keys: |
             $build3-${{ env.cache-name }}-${{ github.event.head_commit.message }}
       - name: list files
         run: 'ls -laR'
       - name: Deploy docs
-        uses: jtuttas/mkdocs-deploy-gh-pages@master
-        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme        
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+        env:
+          CONFIG_FILE: mkdocs.yml 
       - uses: EndBug/add-and-commit@v7
         with:
           # This "special" author name and email will show up as the GH Actions user/bot in the UI
