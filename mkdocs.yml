@@ -3,12 +3,12 @@ site_name: Currciculum MMBbS
 strict: false
 
 nav:
-    - Home: index.md
-    - IT-Teilzeit:
-        - FIAE:
-        - KDM: 
-            - LF12:
-                -LS1: "IT-Teilzeit/KDM/LF12/LS1.md"
-                -LS2: "IT-Teilzeit/KDM/LF12/LS2.md"
-    - Medien-Teilzeit:
-    - Vollzeit:
+  - Home: index.md
+  - IT-Teilzeit: 
+  - FIAE:
+  - KDM: 
+  - LF12:
+  - LS1: IT-Teilzeit/KDM/LF12/LS1.md
+  - LS2: IT-Teilzeit/KDM/LF12/LS2.md
+  - Medien-Teilzeit:
+  - Vollzeit:
