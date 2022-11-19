@@ -1,8 +1,12 @@
 site_name: Currciculum MMBbS
 
+
 strict: false
 
 nav:
   - Home: index.md
-  - LS1: IT-Teilzeit/KDM/LF12/LS1.md
-  - LS2: IT-Teilzeit/KDM/LF12/LS2.md
+  - IT-Teilzeit:
+    - KDM:
+        - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
+        - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
+
