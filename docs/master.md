@@ -14,7 +14,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| <!--curricularerBezug--><!--curricularerBezug-->| <!--lsKurzfassung--><!--lsKurzfassung--> | <!--lsZeit--> |<!--lsZeit-->
+| <!--curricularerBezug--><!--curricularerBezug-->| <!--lsKurzfassung--><!--lsKurzfassung--> | <!--lsZeit--><!--lsZeit--> |
 
 ### Handlungssituation
 
