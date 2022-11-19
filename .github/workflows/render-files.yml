@@ -63,7 +63,7 @@ jobs:
       run: 'sh ./config/render_umlet.sh'
 
   converttopdf:
-    name: Build PDF
+    name: Build PDF with Pandoc
     needs: render_umlet
     runs-on: ubuntu-latest
     steps:
@@ -76,22 +76,22 @@ jobs:
             ./docs
             ./config
             ./pdfs
+            ./html
           key: $build3-${{ env.cache-name }}-${{ github.event.head_commit.message }}
           restore-keys: |
             $build2-${{ env.cache-name }}-${{ github.event.head_commit.message }}
       - name: list files
         run: 'ls -laR'
-      - uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: docs
-          output_dir: pdfs/
-          images_dir: docs/images
-          # for example <img src="./images/file-name.png">
-          image_import: ./images
-          # Default is true, can set to false to only get PDF files
-          build_html: false
-      - name: list files2 
-        run: 'ls -laR' 
+      - name: create file list
+        id: files_list
+        run: |
+          echo "::set-output name=files::$(printf '"%s" ' docs/*.md)"
+      - name: install pandoc
+        run: sudo apt-get update;sudo apt-get install texlive-latex-base texlive-latex-extra pandoc libjs-mathjax; npm install --global mermaid-filter
+      - name: run pandoc
+        run: cd docs; for i in *.md ; do echo "$i" && pandoc -V geometry:margin=1in --mathjax -F mermaid-filter -s $i -o ../pdfs/$i.pdf || true; pandoc --self-contained --standalone -F mermaid-filter -s $i -o ../html/$i.html --metadata pagetitle=$i || true; done 
+      - name: list files2
+        run: 'ls -laR'        
 
   render-mk-docs:
     name: mkdocs

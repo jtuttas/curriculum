@@ -1,10 +1,10 @@
-# <!--bildungsgang--> - <!--Lernfeld-->
+# FIAE - LF1
 
-## <!--nrLernsituiation-->: <!--titelLernsitation--><!--titelLernsitation-->
+## LS1: <!--titelLernsitation--><!--titelLernsitation-->
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| <!--Lernfeld-->:</br> | <!--bildungsgang--> | <!--aj--><!--aj--> |
+| LF1:</br> | FIAE | <!--aj--><!--aj--> |
 
 ### Kompetenzformulierung
 
