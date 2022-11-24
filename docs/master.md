@@ -1,4 +1,4 @@
-# <!--bildungsgang--> - <!--Lernfeld-->
+# <!--bildungsgang--> - Lernfeld <!--Lernfeld-->
 
 ## <!--nrLernsituiation-->: <!--titelLernsitation--> <!--titelLernsitation-->
 
