@@ -18,6 +18,8 @@ Oder Liste:<br/>$\newline$
 1. ein<br/>$\newline$
 2. zwei<br/>$\newline$
 3. drei<br/>$\newline$
+> Oder mit<br/>$\newline$
+> Einrückungen arbeitet<br/>$\newline$
 <!--Kompetenzformulierung-->
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
