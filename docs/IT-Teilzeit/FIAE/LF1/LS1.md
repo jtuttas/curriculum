@@ -9,6 +9,9 @@
 ### Kompetenzformulierung
 
 <!--Kompetenzformulierung-->
+Ein Text<br/>$\newline$
+Ein Weiterer Text<br/>$\newline$
+Noch ein Text nach Absatz<br/>$\newline$
 <!--Kompetenzformulierung-->
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
