@@ -1,10 +1,10 @@
 # FIAE - Lernfeld LF1
 
-## LS1: <!--titelLernsitation--> <!--titelLernsitation-->
+## LS1: <!--titelLernsitation-->Ein Titel<br/>$\newline$<!--titelLernsitation-->
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| LF1:</br> | FIAE | <!--aj--> <!--aj--> |
+| LF1:</br> | FIAE | <!--aj--><!--aj--> |
 
 ### Kompetenzformulierung
 
@@ -13,7 +13,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| <!--curricularerBezug--> <!--curricularerBezug-->| <!--lsKurzfassung--> <!--lsKurzfassung--> | <!--lsZeit--> <!--lsZeit--> |
+| <!--curricularerBezug--><!--curricularerBezug-->| <!--lsKurzfassung--><!--lsKurzfassung--> | <!--lsZeit--><!--lsZeit--> |
 
 ### Handlungssituation
 
