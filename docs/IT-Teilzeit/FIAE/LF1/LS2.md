@@ -1,20 +1,18 @@
 # FIAE - Lernfeld LF1
 
-## LS2: <!--titelLernsitation--><!--titelLernsitation-->
+## LS2: <!--titelLernsitation--> <!--titelLernsitation-->
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| LF1:</br> | FIAE | <!--aj--><!--aj--> |
+| LF1:</br> | FIAE | <!--aj--> <!--aj--> |
 
 ### Kompetenzformulierung
 
-<!--Kompetenzformulierung-->
-
-<!--Kompetenzformulierung-->
+Ich schreibe hier meine Kompetenzformulierung ohne den Curriculums Editor und will mal sehen wie das dann aussieht !
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| <!--curricularerBezug--><!--curricularerBezug-->| <!--lsKurzfassung--><!--lsKurzfassung--> | <!--lsZeit--><!--lsZeit--> |
+| <!--curricularerBezug--> <!--curricularerBezug-->| <!--lsKurzfassung--> <!--lsKurzfassung--> | <!--lsZeit--> <!--lsZeit--> |
 
 ### Handlungssituation
 
@@ -39,5 +37,3 @@
 ### Leistungsnachweise
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
-
-
