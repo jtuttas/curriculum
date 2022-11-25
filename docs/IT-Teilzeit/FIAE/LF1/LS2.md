@@ -8,9 +8,7 @@
 
 ### Kompetenzformulierung
 
-<!--Kompetenzformulierung-->
 Ich schreibe hier meine Kompetenzformulierung ohne den Curriculums Editor und will mal sehen wie das dann aussieht !
-<!--Kompetenzformulierung-->
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
