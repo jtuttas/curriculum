@@ -9,7 +9,7 @@
 ### Kompetenzformulierung
 
 <!--Kompetenzformulierung-->
-<!--Kompetenzformulierung-->
+Ein Test<!--Kompetenzformulierung-->
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
