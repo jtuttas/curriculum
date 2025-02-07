@@ -24,17 +24,15 @@ extra_javascript:
 nav:
   - Home: index.md
   - IT-Teilzeit:
-      - KDM:
-          - 'IT-Teilzeit/KDM/index.md'
-          - LF12:
-              - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
-              - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
-      - FIAE:
-          - 'IT-Teilzeit/FIAE/index.md'
-          - LF1:
-              - LS1: 'IT-Teilzeit/FIAE/LF1/LS1.md'
-              - LS2: 'IT-Teilzeit/FIAE/LF1/LS2.md'
-              - LS3: 'IT-Teilzeit/FIAE/LF1/LS3.md'
+    - KDM: 'IT-Teilzeit/KDM/index.md'  # KDM zeigt auf index.md
+      - LF12:                            # Untermenü ohne direkte Verbindung zu KDM
+        - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
+        - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
+    - FIAE: 'IT-Teilzeit/FIAE/index.md'
+      - LF1: 
+        - LS1: 'IT-Teilzeit/FIAE/LF1/LS1.md'
+        - LS2: 'IT-Teilzeit/FIAE/LF1/LS2.md'
+        - LS3: 'IT-Teilzeit/FIAE/LF1/LS3.md'
 
 
 
