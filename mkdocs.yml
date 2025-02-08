@@ -27,11 +27,13 @@ theme:
 nav:
   - Home: index.md
   - IT-Teilzeit:
-    - KDM: 'IT-Teilzeit/KDM/index.md'  # KDM zeigt auf index.md
-      - LF12:                            # Untermenü ohne direkte Verbindung zu KDM
+    - KDM: 
+      'IT-Teilzeit/KDM/index.md'  # KDM zeigt auf index.md
+      - LF12:                        
         - LS1: 'IT-Teilzeit/KDM/LF12/LS1.md'
         - LS2: 'IT-Teilzeit/KDM/LF12/LS2.md'
-    - FIAE: 'IT-Teilzeit/FIAE/index.md'
+    - FIAE: 
+      'IT-Teilzeit/FIAE/index.md'
       - LF1: 
         - LS1: 'IT-Teilzeit/FIAE/LF1/LS1.md'
         - LS2: 'IT-Teilzeit/FIAE/LF1/LS2.md'
