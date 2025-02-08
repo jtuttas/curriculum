@@ -11,7 +11,7 @@
 <!--Kompetenzformulierung-->
 Ich schreibe hier meine Kompetenzformulierung ohne den Curriculums Editor und will mal sehen wie das dann aussieht !
 
-Ein test am **Sonntag**
+Ein test am **Samstag** den 8.2.2025
 <!--Kompetenzformulierung-->
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
